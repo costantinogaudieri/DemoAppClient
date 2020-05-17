@@ -1,0 +1,13 @@
+{
+    "/*": {
+        "target": "http://localhost:8095",
+        "secure": false,
+        "logLevel": "debug"
+    },
+    "/lol/*": {
+        "target": "http://localhost:8095",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}
+
